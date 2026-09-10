@@ -130,3 +130,86 @@
 	 font-size:18px;
       color:grey;
 	}
+	 .d4{
+	 height:255px;
+	 width:90%;
+	 border:0px solid black;
+	 margin:40px 0px 0px 60px;
+	 display:flex; 
+	}
+	 .d4u1{
+	 height:250px;
+     width:23%;
+     border:1px solid black;
+     border-radius:10px;	 
+	 margin:20px 0px 0px 20px;
+	}
+	 .d4s1{
+	 font-size:18px;
+     font-family:arial ,sans-serif;
+     margin:25px 0px 0px 20px;	 
+	 display:inline-block;
+	}
+	 .d4s1:hover{
+	 border-bottom:1px solid black;
+	 }
+	.ic1{
+	 font-size:20px;
+	 margin:15px 0px 0px 110px;
+	 background-Color:#ADB8C22E;
+	}
+	.ic2{
+	 font-size:20px;
+	 margin:15px 0px 0px 11px;
+	}
+	 .d4d{
+	 height:130px;
+	 width:245px;
+	 border:1px dashed grey;
+	 margin:25px 0px 0px 17px;
+	 border-radius:10px;
+	 background-Color:lightgrey;
+	 text-align:center;
+	}
+	 .d4b{
+	 height:55px;
+	 width:175px;
+	 border:1px solid black;
+	 margin:35px 0px 0px 0px;
+	 border-radius:10px;		 
+	}
+	 .d4b {
+	 background-image: linear-gradient(to right, #2b5876 0%, #4e4376 51%, #2b5876 100%);
+	}
+	.d4b {
+	 margin:35px 0px 0px 35px;	
+	text-align: center;
+	text-transform: uppercase;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 0 20px #eee;
+	border-radius: 10px;
+	display: block;
+	outline: none;
+	border: none;
+	}
+	.d4b:hover {
+	  background-position: right center;
+	  color: #fff;
+	  text-decoration: none;
+	}
+	.b1{
+	 height:25px ;
+     width:100px;
+     border:1px solid grey;	 
+	 border-radius:5px;
+	 margin:15px 0px 0px 22px;
+	 text-align:left;
+	 font-size:12px;
+	 background-Color:white;
+	}
+	.bic{
+	 font-size:14px;
+     margin-right:10px;	
+	}
