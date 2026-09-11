@@ -584,6 +584,106 @@
 	  color: #fff;
 	  text-decoration: none;
 	}
+	
+	.d4b51{
+	  background-image: linear-gradient(to right, #403B4A 0%, #E7E9BB 51%, #403B4A 100%);
+	}
+
+	.d4b51{
+	  margin:35px 0px 0px 35px;	
+	  padding: 15px 45px;
+	  text-align: center;
+	  text-transform: uppercase;
+	  transition: 0.5s;
+	  background-size: 200% auto;
+	  color: white;
+	  box-shadow: 0 0 20px #eee;
+	  border-radius: 10px;
+	  display: block;
+	  outline: none;
+	  border: none;
+	}
+
+	.d4b51:hover {
+	  background-position: right center;
+	  color: #fff;
+	  text-decoration: none;
+	}
+
+	.d4b52{
+	  background-image: linear-gradient(to right, #F09819 0%, #EDDE5D 51%, #F09819 100%);
+	}
+
+	.d4b52{
+	  margin:35px 0px 0px 35px;	
+	  padding: 15px 45px;
+	  text-align: center;
+	  text-transform: uppercase;
+	  transition: 0.5s;
+	  background-size: 200% auto;
+	  color: white;
+	  box-shadow: 0 0 20px #eee;
+	  border-radius: 10px;
+	  display: block;
+	  outline: none;
+	  border: none;
+	}
+
+	.d4b52:hover {
+	  background-position: right center;
+	  color: #fff;
+	  text-decoration: none;
+	}
+	
+	.d4b53{
+	  background-image: linear-gradient(to right, #FF512F 0%, #DD2476 51%, #FF512F 100%);
+	}
+
+	.d4b53{
+	  margin:35px 0px 0px 35px;	
+	  padding: 15px 45px;
+	  text-align: center;
+	  text-transform: uppercase;
+	  transition: 0.5s;
+	  background-size: 200% auto;
+	  color: white;
+	  box-shadow: 0 0 20px #eee;
+	  border-radius: 10px;
+	  display: block;
+	  outline: none;
+	  border: none;
+	}
+
+	.d4b53:hover {
+	  background-position: right center;
+	  color: #fff;
+	  text-decoration: none;
+	}
+	
+	.d4b54{
+	  background-image: linear-gradient(to right, #AA076B 0%, #61045F 51%, #AA076B 100%);
+	}
+
+	.d4b54{
+		  margin:35px 0px 0px 35px;	
+	  padding: 15px 45px;
+	  text-align: center;
+	  text-transform: uppercase;
+	  transition: 0.5s;
+	  background-size: 200% auto;
+	  color: white;
+	  box-shadow: 0 0 20px #eee;
+	  border-radius: 10px;
+	  display: block;
+	  outline: none;
+	  border: none;
+	}
+
+	.d4b54:hover {
+	  background-position: right center;
+	  color: #fff;
+	  text-decoration: none;
+	}
 	.b1{
 	 height:25px ;
      width:100px;
@@ -738,3 +838,7 @@
      margin:70px 0px 0px 10px;
      color:black;	 
 	}
+	.aqua{
+	background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 108, 121, 1) 21%, rgba(0, 212, 255, 1) 100%);
+    }
